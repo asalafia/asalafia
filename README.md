@@ -1,10 +1,13 @@
+ 
 - 👋 Hi, I’m Alexandre Salfia @asalafia
 - 👀 I’m interested in programming in Java, php, pyhton, assembler 
 - 🌱 I’m currently learning Springboot...
-- 💞️ I’m nto collaborating on any project ...
+- 💞️ I’m not collaborating on any project now...
 - 📫 How to reach me : asalafia@gmail.com
-
-
+ 
+ 
+<hr>
+ 
 
 - 👋 Oi, eu sou Alexandre Salafia @asalafia
 - 👀 Estou interessado em programação Java, php, python, assembler em geral
